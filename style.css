@@ -8,7 +8,7 @@
 /* Body */
 body {
   font-family: 'Cairo', sans-serif;
-  font-size: 18px; 
+  font-size: 22px; 
   background: #f8f6f2;
   color: #333;
   line-height: 1.8;
@@ -213,7 +213,7 @@ a.btn {
 }
 
 .footer-overlay .sub {
-  font-size: 12px;
+  font-size: 22px;
   letter-spacing: 3px;
   margin: 10px 0 20px;
   opacity: 0.8;
@@ -223,7 +223,7 @@ a.btn {
   max-width: 600px;
   margin: auto;
   line-height: 1.8;
-  font-size: 14px;
+  font-size: 20px;
   opacity: 0.9;
 }
 
@@ -242,7 +242,7 @@ a.btn {
   border-radius: 50%;
   background: #b88a4a;
   color: white;
-  font-size: 20px;
+  font-size: 23px;
   transition: 0.3s;
   text-decoration: none;
 }
