@@ -71,6 +71,8 @@ h2 {
 .hero-content .logo {
   width: 120px;
   margin-bottom: 10px;
+  opacity: 0.5;
+  border-radius:50% ;
 }
 
 .hero-content h1 {
